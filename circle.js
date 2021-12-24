@@ -1,3 +1,4 @@
+console.log('123456');
 console.log(document.getElementsByName('nam').values)
 var a, myh2, result;
 myh2 = document.getElementById("MyH2");
